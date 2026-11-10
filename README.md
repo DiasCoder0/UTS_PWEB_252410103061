@@ -30,31 +30,31 @@
 ## 📸 Screenshot
 
 ### Halaman Register
-![Register](screenshots/register.png)
+![Register](screenshots/Register.png)
 
 ### Halaman Login
 ![Login](screenshots/Login.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ### Dashboard — Bagian Bawah
-![Dashboard Bawah](screenshots/dashboard-bawah.png)
+![Dashboard Bawah](screenshots/Dashboard-bawah.png)
 
 ### Stok Panen
-![Stok Panen](screenshots/stok-panen.png)
+![Stok Panen](screenshots/Stok-panen.png)
 
 ### Tambah Barang
-![Tambah Barang](screenshots/tambah-barang.png)
+![Tambah Barang](screenshots/Tambah-barang.png)
 
 ### Distribusi Barang
-![Distribusi](screenshots/distribusi.png)
+![Distribusi](screenshots/Distribusi.png)
 
 ### Konversi Limbah
-![Konversi](screenshots/konversi.png)
+![Konversi](screenshots/Konversi.png)
 
 ### Profil
-![Profil](screenshots/profil.png)
+![Profil](screenshots/Profil.png)
 
 ---
 
