@@ -33,7 +33,7 @@
 ![Register](screenshots/register.png)
 
 ### Halaman Login
-![Login](screenshots/login.png)
+![Login](screenshots/Login.png)
 
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
