@@ -39,13 +39,13 @@
 ![Dashboard](screenshots/Dashboard.png)
 
 ### Dashboard — Bagian Bawah
-![Dashboard Bawah](screenshots/Dashboard bawah.png)
+![Dashboard Bawah](screenshots/Dashboard-bawah.png)
 
 ### Stok Panen
-![Stok Panen](screenshots/Stok panen.png)
+![Stok Panen](screenshots/Stok-panen.png)
 
 ### Tambah Barang
-![Tambah Barang](screenshots/Tambah barang.png)
+![Tambah Barang](screenshots/Tambah-barang.png)
 
 ### Distribusi Barang
 ![Distribusi](screenshots/Distribusi.png)
